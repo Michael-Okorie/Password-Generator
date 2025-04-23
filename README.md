@@ -13,7 +13,7 @@ Users can choose password length, toggle character types, and instantly generate
 
 ## Live Demo
 
-[Live Site](https://yourusername.github.io/password-generator)  
+[Live Site](https://michael-okorie.github.io/Password-Generator/)  
 [GitHub Repo](https://github.com/Michael-Okorie/Password-Generator.git)
 
 ---
